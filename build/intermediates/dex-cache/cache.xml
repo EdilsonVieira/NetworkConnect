@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\695c203e1856b6fc23dce0e2eacc5a04b384e568\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_0e29a5d1e3ad7a4d35d7afdb19c424ee896184d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\a984844fe1bb4c03071892b0b46d4f1761e66def\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_9d03a60b92278da503b7bd2926095e9186771828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\d8650fbb92c04bba99d64409320ee4d610535837\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_f44127f0a7d98a45bf12130bc5f5013d59aa15a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\339da82e5c635e1c0f40cd534c155953bb93587e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_40a8fcac37bb7388bf9bc66fc47e398e6bc61720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\3cd6ed585c7a04533c97a29c1e25318bcc4051b0\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_0a8ad664a3cddd1548eed99705cc9af53f718e1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\1ec083b54bf7727615ab8d01a89e8a13cce82e14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_afc167716bd2715ee3aa87146ba4f9fda3d1103c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_4df3e9dd84106ed9e62177656311dcde5399a184.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\d8650fbb92c04bba99d64409320ee4d610535837\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_92b2965db170d6b8a0ebfb0ebfb7d93dc6db59e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\59f64247a05b6518a5b1400f8b58fcf4d88ef58d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_3383f61e902eb6ef695b8a263ac8a0f932366873.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\19df01f3b484722ec0af6080ab6c18fc0956bbb9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_4489e039c939693da3e5912deeafb0f5943b235e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\4105fd99438dbf1711903ef29b6aa4e514b1ff2d\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_598fff1f4db8cee20d98a410c701ee8c736614bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\4105fd99438dbf1711903ef29b6aa4e514b1ff2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_cb749996e2e6deadc5b677a47c8f19da5fb57166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\3cd6ed585c7a04533c97a29c1e25318bcc4051b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_a0f43323f80e3ad3b14d94d428c07e602568c5c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\a984844fe1bb4c03071892b0b46d4f1761e66def\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b9e90d5e3954ab00bbee9449c42beda300452562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\22cc47b5f50d09524090122892d9beb62acdae7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_5370f6b6ec783f3ffe94fe9386945b5a969e325c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\879e577bfa7e10c73d985ea1b581fcb6eea958c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\classes_50922d73d15f05c276a8a9adc6135cff8076c6d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\edilson.vieira.3\.android\build-cache\695c203e1856b6fc23dce0e2eacc5a04b384e568\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\Users\edilson.vieira.3\AndroidStudioProjects\NetworkConnect\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_635837b2e8582e02cc74b0bb30dec4f6f5d2c618.jar" />
+    </item>
+
+</items>
