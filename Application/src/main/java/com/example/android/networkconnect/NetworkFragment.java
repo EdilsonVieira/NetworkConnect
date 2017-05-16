@@ -223,10 +223,10 @@ public class NetworkFragment extends Fragment {
             String numbers = null;
             try {
                 connection = (HttpsURLConnection) url.openConnection();
-                // Timeout for reading InputStream arbitrarily set to 4000ms.
-                connection.setReadTimeout(4000);
-                // Timeout for connection.connect() arbitrarily set to 4000ms.
-                connection.setConnectTimeout(4000);
+                // Timeout for reading InputStream arbitrarily set to 5000ms.
+                connection.setReadTimeout(5000);
+                // Timeout for connection.connect() arbitrarily set to 5000ms.
+                connection.setConnectTimeout(5000);
                 // For this use case, set HTTP method to GET.
                 connection.setRequestMethod("GET");
                 // Already true by default but setting just in case; needs to be true since this request
